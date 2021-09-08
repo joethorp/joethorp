@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joethorp
-- 👀 I’m interested in JavaScript
+- 👀 I’m interested in front end web development 
 - 🌱 I’m currently learning React
 - 📫 How to reach me joethorp1@gmail.com
 
